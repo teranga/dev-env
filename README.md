@@ -32,9 +32,9 @@ Note: if no version is specified it means the latest will be installed
 * [ammonite](https://github.com/lihaoyi/Ammonite) ![Installed](https://img.shields.io/badge/current\-v0.8.2-blue.svg) [![GitHub release](https://img.shields.io/github/release/lihaoyi/Ammonite.svg?label=latest)](https://github.com/lihaoyi/Ammonite/releases/latest)
 
 ## SDKs & Runtimes
-* Oracle Java 7
-* Oracle Java 8
 * [sdkman](http://sdkman.io/), which is used to install:
+    * Oracle Java 7 ???
+    * Oracle Java 8 u111
     * [sbt](http://www.scala-sbt.org/)
     * [maven](https://maven.apache.org/)
 * [docker](https://www.docker.com/)

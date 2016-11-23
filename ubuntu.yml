@@ -5,6 +5,5 @@
    - include: deb-packages.yml
    - include: targz-apps.yml
    - include: binaries.yml
-   - include: java-oracle.yml
    - include: sdkman.yml
    - include: customization.yml
