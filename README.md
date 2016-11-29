@@ -34,7 +34,7 @@ Note: if no version is specified it means the latest will be installed
 ## SDKs & Runtimes
 * [sdkman](http://sdkman.io/), which is used to install:
     * Oracle Java 7 ???
-    * Oracle Java 8 u111
+    * Oracle Java 8u111
     * [sbt](http://www.scala-sbt.org/)
     * [maven](https://maven.apache.org/)
 * [docker](https://www.docker.com/)
